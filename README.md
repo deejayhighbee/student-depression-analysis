@@ -77,3 +77,12 @@ This analysis utilizes the [Student Depression Dataset](https://www.kaggle.com/d
 
 **My Notebook Link:**  
 You can view the complete notebook on Kaggle [here](https://www.kaggle.com/code/ayodejiibrahimlateef/integrative-analysis-and-early-detection-of-studen).
+
+**📌 Usage Instructions:** 
+
+1. Clone this repository and navigate into the project directory:
+   ```bash
+   git clone https://github.com/deejayhighbee/student-depression-analysis.git
+   cd student-depression-analysis
+   pip install -r requirements.txt
+   jupyter notebook
